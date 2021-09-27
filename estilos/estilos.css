@@ -3,13 +3,15 @@
     margin: 20px 50px;
     background-color: aliceblue;
 }
-
+.pequeno{
+    font-size: 20px;
+}
 .tabla{
     margin-left:auto;
 }
 .titulo{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 30px;
+    font-size: 40px;
     display: auto;
 }
 .nav{
