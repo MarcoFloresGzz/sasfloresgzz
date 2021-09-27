@@ -1,0 +1,27 @@
+*{
+    font-family: 'Arial Narrow', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px 50px;
+    background-color: aliceblue;
+}
+
+.tabla{
+    margin-left:auto;
+}
+.titulo{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    display: auto;
+}
+.nav{
+    display: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+.portada{
+    height: 200px;
+    width: 210px;
+    margin: 10px;
+}
